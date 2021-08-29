@@ -1,0 +1,46 @@
+@charset "utf-8";
+.solistyle {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFF;
+	text-decoration: none;
+}
+body{background:url(images/bg.jpg) repeat-x;}
+.bodytext {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+	text-align:justify;}
+	.bodytext a{text-decoration:none;
+	color:#FFF;}
+.bodytext2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #333;
+	text-decoration: none;}
+.pageheader {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #CCC;
+	text-decoration: none;}
+.prodtitle {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;}
+.tdtext{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;}
+	.tdtext a{color:#fff;text-decoration:none;}
+	.menutab {position:absolute;top:82px;left:341px;}
+	/*.menutab {position:relative;top:0px;left:-172px;margin:0px;padding:0px;}*/
+	.menutab img {border:none;margin:0px;padding:0px;}
+	.productschoices {visibility:hidden;position:absolute;top:46px;left:485px;width:172px;margin:0px;padding:0px;}
+	.productschoices a{color:#fff;text-decoration:none;font-size:12px;font-weight:bold;display:block;margin:0px;padding:5px;background-color:#152c8a;}
+	a {outline:none;}
